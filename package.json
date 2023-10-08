@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "description": "aplicación de tareas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
